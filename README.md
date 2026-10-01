@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="paint.png" alt="Paint app screenshot"/><br />
+      <img src="Screenshot 2026-10-01 174013.png" alt="Paint app screenshot"/><br />
       <sub><b>🎨 Paint App</b></sub>
     </td>
     <td align="center" width="33%">
